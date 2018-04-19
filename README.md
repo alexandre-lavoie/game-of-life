@@ -1,2 +1,2 @@
-# game-of-life
-A recreation of Conway's Game Of Life.
+# Conway's Game Of Life
+A recreation of the famous Conway's Game Of Life.
