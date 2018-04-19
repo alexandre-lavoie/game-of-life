@@ -11,11 +11,10 @@ It uses the first imputted image and applies the 4 rules every update.
 
 # Images
 
-![alt text](https://github.com/alexandre-lavoie/game-of-life/blob/master/images/GosperGliderGun.png?raw=true)
-
 Gosper's Glider Gun
 
-![alt text](https://github.com/alexandre-lavoie/game-of-life/blob/master/images/Spaceship.png?raw=true)
+![alt text](https://github.com/alexandre-lavoie/game-of-life/blob/master/images/GosperGliderGun.png?raw=true)
 
 Spaceship
 
+![alt text](https://github.com/alexandre-lavoie/game-of-life/blob/master/images/Spaceship.png?raw=true)
